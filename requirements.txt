@@ -1,7 +1,7 @@
 #################SERVER REQUIREMENTS##################
 wsgiref==0.1.2
 passlib==1.6.1
-bottle==0.12.7
+bottle==0.12.20
 bottle-memcache==0.2
 python-memcached==1.48
 pylibmc #For heroku memcached compatibility
